@@ -7,3 +7,5 @@ In the project directory, you can run:
 Runs the backend server in http://localhost:3001.
 
 This will be the backend server of the project.
+
+### Run MongoDB server for storage purposes
